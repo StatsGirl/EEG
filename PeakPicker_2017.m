@@ -1,7 +1,8 @@
 %This is a peak picker for Neuroscan avg files. The channels wanted to plot
 %will be given, and the files will be circulated through so that each
 %selected channel to plot will be added and then averaged with the total files 
-%Created by Breya Walker May 21 2015
+%Created by Breya Walker May 21 2015 
+
 clear all;close all;clc;
 
 %chan2Plot=[2 7 10 13 25 28 31 48]; %Array that stores all of the desired channels to read in and average.
